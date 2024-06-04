@@ -7,7 +7,7 @@
     <style>
         body {
             background-color: #0a192f;
-            background-image: radial-gradient(circle, #192d50 0%, #0a192f 100%);
+            background-image: radial-gradient(circle, #81b3ff 0%, #0a192f 100%);
             color: #ffffff;
             font-family: 'Montserrat', sans-serif;
             min-height: 100vh;
